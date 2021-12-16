@@ -1,4 +1,4 @@
-# hello_flutter
+# Counter_Application
 
 A new Flutter project.
 
