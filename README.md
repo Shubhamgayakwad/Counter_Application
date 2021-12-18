@@ -1,6 +1,6 @@
 # Counter_Application
 
-A new Flutter project.
+A new Count down Timer Flutter project.
 
 ## Getting Started
 
