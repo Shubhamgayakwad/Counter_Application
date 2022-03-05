@@ -2,15 +2,9 @@
 
 A new Count down Timer Flutter project.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022-03-05-11-03-21-735_com example hello_flutter](https://user-images.githubusercontent.com/75009926/156870282-e60b616a-3a08-433c-bf20-4707584789ca.jpg)
+![Screenshot_2022-03-05-11-03-49-325_com example hello_flutter](https://user-images.githubusercontent.com/75009926/156870290-7131dc75-4e67-4a3f-baa8-f385e08fa84f.jpg)
